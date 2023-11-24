@@ -7,6 +7,4 @@ dotenv.config();
 // asdlnkasdnoikasd
 app.use(read_root);
 
-app.listen(process.env.PORT || 3000, () => {
-    console.log('start');
-});
+
